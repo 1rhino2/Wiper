@@ -1,0 +1,27 @@
+# Ignore D compiler output
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.lst
+*.map
+*.out
+
+# Ignore build and temp folders
+build/
+tmp/
+
+# Ignore editor and OS files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code settings
+.vscode/
+./github/
+*.obj
