@@ -1,3 +1,6 @@
+# WARNING, READ CODE BEFORE USAGE. DO NOT RUN THIS ON YOUR MAIN SYSTEM.
+
+
 # Wiper
 
 This project has a D language source file (`main.d`).
